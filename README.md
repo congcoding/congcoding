@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=FFDF40&fontColor=FFFFFF&height=250&animation=scaleIn&&section=header&text=JeongWon%20Been&fontSize=70&fontAlign=49&fontAlignY=43)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFDF40&fontColor=000000&height=100&animation=twinkling&&section=header&text=JeongWon%20Been&fontSize=42)
 
+<br />
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -23,6 +24,3 @@
   
 ![JeongWon Been's GitHub stats](https://github-readme-stats.vercel.app/api?username=congcoding&hide_title=true&title_color=FFDF40&show_icons=true&theme=graywhite)
 </div>
-<br />
-
-![footer](https://capsule-render.vercel.app/api?type=egg&color=FFDF40&height=250&section=footer)
