@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFDF40&fontColor=000000&height=100&animation=twinkling&&section=header&text=JeongWon%20Been&fontSize=42)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFDF40&fontColor=FFFFFF&height=100&animation=twinkling&&section=header&text=JeongWon%20Been&fontSize=42)
 
 <br />
 <h3 align="center">🛠 Tech Stack 🛠</h3>
